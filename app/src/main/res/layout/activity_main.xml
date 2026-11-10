@@ -18,7 +18,7 @@
         android:background="@drawable/sfondo_main_activity">
 
         <TextView
-            android:id="@+id/textView"
+            android:id="@+id/title_txt"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/title_txt"
@@ -31,13 +31,13 @@
             android:orientation="vertical">
 
             <Button
-                android:id="@+id/button2"
+                android:id="@+id/btn_new_game"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/btn_new_game" />
 
             <Button
-                android:id="@+id/button3"
+                android:id="@+id/btn_multiplayer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/btn_multiplayer" />
