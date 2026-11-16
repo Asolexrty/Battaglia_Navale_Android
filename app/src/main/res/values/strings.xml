@@ -3,4 +3,5 @@
     <string name="title_txt">Battaglia Navale</string>
     <string name="btn_new_game">Nuova Partita</string>
     <string name="btn_multiplayer">Multigiocatore</string>
+    <string name="lbl_stato">Tocca una cella</string>
 </resources>
