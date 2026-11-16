@@ -71,8 +71,7 @@ public class NewGameActivity extends AppCompatActivity {
     }
 
     private void onCellaPremuta(int riga, int colonna) {
-        // Qui chiamerai la tua logica, ad esempio:
-        // risultato = campo.spara(riga, colonna);
+        //Aggiungere la logica colpo
         txtStato.setText("Colpita cella " + riga + "," + colonna);
         colora(riga, colonna, Color.RED);
     }
